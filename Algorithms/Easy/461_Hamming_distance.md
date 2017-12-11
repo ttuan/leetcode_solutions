@@ -23,8 +23,6 @@ Explanation:
 The above arrows point to positions where the corresponding bits are different.
 ```
 
-# Solution
-
 # My Solution
 
 ```Ruby
